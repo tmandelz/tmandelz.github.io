@@ -4,6 +4,7 @@ title:  "Are we still falling towards the ozone hole?"
 subtitle: "A self learning visualisation approach to the silent ozone hole progression."
 date:   2022-04-13 17:35:43 +0200
 categories: visualisations ozone  
+classes: wide
 ---
 
 <div style="text-align: center">
@@ -61,7 +62,9 @@ One important number to remember in this context is 220 (DU), it is the threshol
 # Creating the plot 
 I then started to create a time series plot. Starting with the first satellite measured ozone content of the atmosphere in 1979 – until today I plotted the whole daily values of the Dobson unit measurements. I also added a line on the threshold for 220 DU. The viewer will easily see when the daily values are falling below the threshold.
 I also added the events (red and green numbers) to the data points where they occurred. Red events are perceived as not good by the scientists, green ones are beneficial.
- 
+  <div id="ozoneMap" >
+  <embed type="text/html" src="https://tmandelz.github.io/GDV/ozoneplotRedone.html"  width="200%" height="900px"> 
+  </div>
 
 Now, the plot is interesting because you can see how many times (late summer each year) the ozone layer is depleted. This alone does not show accurately the progression of the ozone layer. There is to much noise and the difference in a year is big (380 to 150 DU). I added a line with a rolling mean for 90 days.
  
