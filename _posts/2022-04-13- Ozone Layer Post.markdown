@@ -4,7 +4,6 @@ title:  "Are we still falling towards the ozone hole?"
 subtitle: "A self learning visualisation approach to the silent ozone hole progression."
 date:   2022-04-13 17:35:43 +0200
 categories: visualisations ozone  
-classes: wide
 ---
 
 <div style="text-align: center">
@@ -77,7 +76,7 @@ So, I added another rolling mean. Now over 2 years.
 Now the users see a clear fall of the line until 1995. Afterwards the line is stable with a very slow increase. This stabilization is the effect of the many positive events that happened and the work of the active scientists and politicians.
 
 # Conclusion
-Fortunately, the United Nations predict the ozone layer will normalise to pre 1979 values in 2060. While this is a long-time range it is incredible what happened politically in a short period of time. The ozone layer today is monitored, regulated and in 2016 the Kigali agreement, which adds to previous agreements, was ratified by 197 countries (Manjiri Mulye, 2017). This is EVERY country on earth.
+Fortunately, the United Nations predict the ozone layer will normalise to pre 1979 values in 2060. While this is a long-time range it is incredible what happened politically in a short period of time. The ozone layer today is monitored, regulated and in 2016 the Kigali agreement, which is an ammendment to the Montreal Protocol, was ratified by 197 countries (Manjiri Mulye, 2017). This is EVERY country on earth.
 One can only hope this collaboration effort is matched in the much bigger global climate crisis.
 
 
