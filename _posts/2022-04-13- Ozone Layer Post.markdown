@@ -72,9 +72,6 @@ I then started to create a time series plot. Beginning with the first satellite 
 I also added the events (red and green numbers) to the data points where they occurred. Red events are perceived as harmful by the scientists, green ones are beneficial.
 
   <div id="ozoneMap" >
-  <a href="https://tmandelz.github.io/GDV/ozoneplotRedone.html">
-Original Plot 
-</a>
   <embed type="text/html" src="https://tmandelz.github.io/GDV/ozoneplotRedone.html"  width="200%" height="900px"> 
 
   </div>
