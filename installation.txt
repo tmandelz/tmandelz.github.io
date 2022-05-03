@@ -1,0 +1,13 @@
+# Install Ruby
+https://www.ruby-lang.org/en/downloads/
+
+# CMD Install Dependencies
+gem update --system
+gem install jekyll
+gem install bundler
+bundler update
+
+
+# Jekyll 
+jekyll new .
+jekyll serve
