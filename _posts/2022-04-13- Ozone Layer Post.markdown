@@ -33,14 +33,14 @@ After some initial thinking I tried to map out an action plan for the upcoming s
 -	adding descriptions in the plot
 
 # Finding a dataset and its pitfalls
-After some research I found a NASA Website which provided daily data from 1979 on. The daily data points are available, but they are separated in a file for each year with its own link. So, I was looking for an automated download for each year. NASA does not provide a single file or download for all the daily data.  Next, I started thinking how I would achieve this.
-I realized/identified/registered  that the URL "https://ozonewatch.gsfc.nasa.gov/meteorology/figures/ozone/to3caps_{Year}_toms+omi+omps.txt"(Ozonewatch, 2021b) includes a year.
+After some research I found a NASA Website which provided daily data from 1979 on. The daily data points are available, but they are separated in a file for each year with its own link. So, I was looking for an automated download for each year. NASA does not provide a single file or download for all the daily data.  In a next step, I started thinking how I would achieve this.
+I realized  that the URL "https://ozonewatch.gsfc.nasa.gov/meteorology/figures/ozone/to3caps_{Year}_toms+omi+omps.txt"(Ozonewatch, 2021b) includes a year.
 From prior experience I reckoned that a loop through these URL's (changing the year in each loop) should be sufficient to download all the files and merge them together. Luckily, I had already learned these skills because else it would be a gruesome task to download them all by hand. 
 
-<p id="Advice">Always be on the lookout while looking for a dataset and do not easily dismiss good data. Be aware that there are always workarounds for most time-consuming tasks. </p>
+<p id="Advice">Always be on the lookout while looking for a dataset and do not easily dismiss good data. Be aware that there are always workarounds for most time-consuming tasks.</p>
 
 # Data and its gaps
-I asked the curator of the data repository, why there was  a big gap between 1994 and 1996 and what might cause the other missing values, and he answered with the following response:
+I asked the curator of the data repository, why there was  a big gap between 1994 and 1996 and what might cause the other missing values, and he answered with the following response: 
 <p id="Citation">There were no satellites available during that period [1994- 1996] that measured global total column ozone. The last TOMS instrument was onboard the Meteor-3 satellite that ended in 1994. The Earth Probe TOMS satellite wasn't launched until 1996. Other missing data here and there throughout the data record are due to technical issues with either the instrument or the satellite (E. R. Nash, personal communication, December 14, 2021).
 </p>
 
@@ -49,6 +49,7 @@ I asked the curator of the data repository, why there was  a big gap between 199
 Missing observations are set to the value -9999 by NASA. I removed these with the pandas package and put the numpy NAN value instead for easier handling with the visualisation packages. NAN is processed by the visualisation packages as a missing value, whereby -9999 would be processed as the number -9999 and would therefore be a negative outlier. 
 I looped through each year and added them to a full dataframe in pandas. 
 As a result, I have a full time series with daily values from 1979 to today. 
+
 
 
 # Events 
@@ -66,7 +67,6 @@ Researching these events, I learned some hard facts about the dynamics of ozone 
 For example, ozone is measured in Dobson units (DU). This is a measuring unit which describes the density of a gas in a specific volume in the atmosphere. With this metric a depletion of ozone is 
 One important number to remember in this context is 220 (DU), it is the threshold of a depletion of the ozone layer. Scientists defined this limit because prior to 1979 it was never measured.
 
-
 # Creating the plot 
 I then started to create a time series plot. Beginning with the first satellite measured ozone content of the atmosphere in 1979 – until today I plotted the whole daily values of the Dobson unit measurements. For better visual impact, I also added a line on the threshold for 220 DU. The viewer will easily see when the daily values  are falling below the threshold.
 I also added the events (red and green numbers) to the data points where they occurred. Red events are perceived as harmful by the scientists, green ones are beneficial.
@@ -76,7 +76,7 @@ I also added the events (red and green numbers) to the data points where they oc
 
   </div>
 
-Now, the plot is interesting because you can see how many times (late summer each year) the ozone layer is depleted (Yes, this happens regularly, but don’t be afraid the depletion is rebuild each year which you can see in the plot as well.). This alone does not show accurately the progression of the ozone layer. There is too much noise and the difference in a year is big (380 to 150 DU). I added a line with a rolling mean for 90 days.
+Now, the plot is interesting because you can see how many times (late summer each year) the ozone layer is depleted, which means it falls below the 220 DU threshold. This alone does not show accurately the progression of the ozone layer. There is too much noise and the difference in a year is big (380 to 150 DU). I added a line with a rolling mean for 90 days.
 
 Adding a rolling mean smoothens the line for the users. They are now able to see a downwards progression. There is still too much noise for a clear picture.
 
@@ -84,13 +84,15 @@ Adding a rolling mean smoothens the line for the users. They are now able to see
 Finally, I added another rolling mean, now with a 2 year range.
 
 
-Now the users see a clear fall of the line until 1995. Afterwards the line is stable with a very slow increase. This stabilization is the effect of the Montreal Protocol where to some-extent the foundation of the upwards trend was layed. The work of the active scientists and politicians and their will to execute the directives of the agreement stepped up the positive effect .
+Now the users see a clear fall of the line until 1995. Afterwards the line is stable with a very slow increase. This stabilization is the effect of the Montreal Protocol where to some-extent the foundation of the upwards trend was layed. The work of the active scientists and politicians and their will to execute the directives of the agreement stepped up the positive effect.
+
 
 
 # Conclusion
 Fortunately, the United Nations predict the ozone layer will normalise to pre 1979 values in 2060. While this is a long time span it is incredible what happened politically in a short period of time. The ozone layer today is monitored, regulated and in 2016 the Kigali agreement, which is an ammendment to the Montreal Protocol, was ratified by 197 countries (Manjiri Mulye, 2017). This is EVERY country on earth.
 
 One can only hope this collaboration effort is matched in the much bigger global climate crisis.
+
 
 
 <div style="margin-top: 100px;">
