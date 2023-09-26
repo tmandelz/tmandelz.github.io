@@ -1,28 +1,35 @@
 ---
 layout: post
-title:  "Are we still sss towards the ozone hole?"
-subtitle: "A self learning visualisation approach to the silent ozone hole progression."
-date:   2023-09-26 17:35:43 +0200
-categories: visualisations ozone  
+title:  "Energy Data Hackdays 2023"
+categories: hackathon 
+
 ---
 
-<div style="text-align: center">
-
-<a href="https://ozonewatch.gsfc.nasa.gov/ozone_maps/images/Y2021/M09/OZONE_D2021-09-26_G%5E716X716.IOMPS_PNPP_V21_MGEOS5FP_LSH.PNG">
- <figure>
-  <img src="/images/ozone/ozonemapprojection.png" align="center" alt="Ozone Map Projection" style="width:100%">
-  <figcaption>Figure 1 - (Ozonewatch, 2021a)</figcaption>
-</figure> 
-
-</a>
-</div>
 
 
+Das erste, was mir beim Stichwort "partizipativ" einfällt, ist die schweizerische Demokratie. Obwohl nicht alle Bürger des Landes teilnahmeberechtigt sind, haben doch eine beträchtliche Anzahl von Schweizerinnen und Schweizern das Recht zur Beteiligung, und in der Regel beteiligen sich mehr als 40% (Bundesamt für Statistik, 2023) aktiv an den Wahlen und Abstimmungen. Daher sollte meiner Meinung nach eine partizipative Veranstaltung ebenfalls eine breite Palette von Teilnehmerinnen und Teilnehmern einschliessen und sie aktiv am Geschehen teilhaben lassen.
 
-# My Inspiration and goals
-As I listened to an episode of the Startalk podcast (deGrasse Tyson, 2021) I was reminded of the ozone depletion which was a threat in my infant and teen years. Since then, I have not heard of any developments in recent years. So, I decided to check out this topic and get some experience in data visualisation as well. My idea was to create an interactive plot for the timeline of the ozone hole depletion size. In this plot I marked the important events in the timeline and added a description to them. 
-My aim is that you as a reader know about the ozone hole progression and if we are silently falling into a pitfall or if there is a solution in sight. You may also learn, along with me, the basics of a building an interactive visualisation.
+## Was ist ein partizipatives Format?
 
+Nach (Fremer & Naughton, 2017) erweisen sich die nachstehenden Faktoren als Herausforderungen, die jedoch massgeblich darüber entscheiden, ob eine Veranstaltung mit partizipativem Charakter erfolgreich verläuft:
+
+•	<b>Klare und glaubwürdige Kommunikation</b>: Die Kommunikation seitens der Organisatoren muss klar und glaubwürdig sein. Versprechungen, wie die Umsetzung von Ideen, sollten eingehalten werden, um die Motivation der Teilnehmer aufrechtzuerhalten.
+
+•	<b>Integration der Ideen der Teilnehmer</b>: Die Ideen und Gedanken der Teilnehmer müssen nicht nur gehört, sondern auch aktiv in den Arbeitsprozess integriert werden. Es reicht nicht aus, Ideen nur zu sammeln; es sollte ein Mechanismus existieren, um sie in die Praxis umzusetzen.
+
+•	<b>Förderung von Kooperation und Vielfalt</b>: Die Zusammenarbeit zwischen Teilnehmenden und die Integration verschiedener Perspektiven und Hintergründe sind entscheidend für den Erfolg. Vielfalt und Heterogenität sollten gefördert werden.
+
+•	<b>Raumgestaltung</b>: Die Planung von Events sollte die Raumgestaltung berücksichtigen, um eine kollaborative Umgebung zu schaffen, die Bewegung und Interaktion unterstützt.
+
+•	<b>Innovative Technologien</b>: Die Veranstalter sollten moderne Technologien sinnvoll nutzen, um die Interaktion und Kommunikation der Teilnehmer zu fördern und Inhalte nachhaltig zu vermitteln.
+
+•	<b>Flexibilität und Freiräume</b>: Veranstaltungen sollten hierarchische Strukturen überwinden und Freiräume für Teilnehmer bieten, um Ideen und Lösungen gemeinsam zu entwickeln, ohne vorgegebene Agenda oder starre Hierarchien.
+
+•	<b>Ergebnisoffenheit</b>: Veranstaltungen sollten offen für neue Ideen und Herangehensweisen sein, anstatt vorab festgelegte Ergebnisse zu verfolgen. Dies ermöglicht echte Partizipation und Innovation.
+
+•	<b>Mut zu unkonventionellen Ansätzen</b>: Die Organisatoren sollten den Mut haben, neue Ansätze zu verfolgen, selbst wenn diese von traditionellen Methoden abweichen, um den Erfolg von partizipativen Events sicherzustellen.
+
+Sie haben einen starken Bezug zu Veranstaltungen im untern
 
 <div style="margin-top: 100px;">
 <h1> Sources</h1>
