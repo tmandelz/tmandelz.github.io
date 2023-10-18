@@ -59,43 +59,47 @@ Swissgrid, Axpo, verschiedene Energiewerke und andere Unternehmen der Energiebra
 
 ## Journal der Hackdays
 
-Während meiner Teilnahme an den Hackdays habe ich aktiv dazu beigetragen, die Erfahrung sowohl für mich als auch für mein Team zu bereichern. Nachfolgend ein Journal der beiden Tage:
-##TODO:
+Während meiner Teilnahme an den Hackdays habe ich aktiv dazu beigetragen, die Erfahrung sowohl für mich als auch für mein Team zu bereichern. Die Zusammenarbeit habe wo immer möglich versucht mit verschiedenen Personen zu fördern. Nachfolgend ein Journal der beiden Tage:
+
 
 
 ### Tag 1 
 
-Der erste Tag startete mit Kaffi und Gipfeli um 09:00 Uhr. Gleich anschliessend eine zunächst etwas langsame Einführung durch Keynote-Sprecher und die Organisatoren. Dabei wurden die Rahmenbedingungen und Infrastruktur (FHNW-Campus) erklärt. Für mich als FHNW-Student war dies redundante Information. Ich schaute mich lieber um und studierte bereits die Plakate mit den Challenge-Beschrieben.
-Nach den Keynotes pitchten alle Challenge-Owner ihre Challenges. Dabei waren einige überzeugender als andere und ich musste meine Präferenzen bereits wieder überdenken. 
-Etwa drei Challenges waren meine Favorites. Nach diesen Pitches konnte man die Challenge-Ownern an ihren Plakaten ausfragen. 
+Der erste Tag startete mit Kaffee und Gipfeli um 09:00 Uhr. Gleich anschliessend eine zunächst etwas langsame Einführung durch Keynote-Sprecher der FHNW und der Organisatoren. Dabei wurden die Rahmenbedingungen und Infrastruktur (FHNW-Campus) erklärt. Für mich als FHNW-Student war dies eine redundante Information. Ich schaute mich lieber um und studierte bereits die Plakate mit den Beschreibungen der Challenges.
+Nach den Keynotes pitchten alle Challenge-Owner ihre Challenges. Dabei waren einige überzeugender als andere und ich musste meine Präferenzen bereits wieder überdenken. Etwa drei Challenges waren meine Favorites. Nach diesen Pitches konnte man die Challenge-Ownern an ihren Plakaten ausfragen. 
 Meine Leitfragen dabei waren die folgenden:
--	Habt Ihr GIS Daten?
 -	Habt Ihr einen technische Person mit welcher man Fragen oder Ideen besprechen kann?
 -	Habt ihr eine konkrete Fragestellung die in zwei Tagen erarbeitbar ist?
+-	Habt Ihr GIS Daten?
+
 Schnell habe ich mich für die “Spatial Clustering for district energy” Challenge entschieden. 
-![Stefano's Pitch](https://energydatahackdays.ch/fileadmin/hackdays/_processed_/1/d/csm_2309-EDHD-Tag-1-38_28809e196d.jpg)
-Weitere Teilnehmer entschieden sich ebenfalls für diese Challenge und ein Team bildete sich schnell. Die Challenge Owner teilten schnell ihr Google-Drive auf welchem bereits die Daten einsichtbar waren. Auch wurde ein Slack Chanell für die Teamkommunikation eingerichtet.
-Mein Team bestand aus vielfältigen und unterhaltsamen Mitgliedern, darunter Personen, die Italienisch, Englisch und teilweise lange Anreisezeiten hatten.
-Es gab jedoch einige anfängliche Herausforderungen. Einige Teammitglieder hatten bereits ohne formelle Vorstellung der Teammitglieder mit der Arbeit begonnen.
+![Challenge Owner Pitch](https://energydatahackdays.ch/fileadmin/hackdays/_processed_/1/d/csm_2309-EDHD-Tag-1-38_28809e196d.jpg)
+Weitere Teilnehmer entschieden sich ebenfalls für diese Challenge und ein Team bildete sich schnell. Die Challenge Owner teilten schnell ihr Google-Drive auf welchem bereits die Daten einsichtbar waren. Mein Team bestand aus vielfältigen Mitgliedern, darunter Personen, die Italienisch sowie Englisch sprachen und teilweise lange Anreisezeiten hatten.
+Es gab jedoch einige anfängliche Herausforderungen, einige Teammitglieder hatten bereits ohne formelle Vorstellung der Teammitglieder mit der Arbeit begonnen.
 Glücklicherweise gab es eine hilfreiche Einführung von Stefano, einer der Challenge-Owner, bei der uns die bestehende Softwarelösung gezeigt wurde. Nach dieser Vorstellung haben sich auch alle Mitglieder vorgestellt und ihre Stärken und Schwächen erwähnt. Dann war es bereits Zeit für eine kurze Mittagspause. Bereits in der Pause startend fand gleich danach eine Besprechung mit allen Teilnehmern und den weiteren dazugestossenen technisch versierteren Challenge Ownern statt.
-Nicht alle Teams starteten mit der gleichen Codierungsstrategie, was zu einer gewissen Diskrepanz führte. Einige Teilnehmer waren bereits in der explorativen Datenanalyse aktiv, während andere Ideensammlungen betrieben. Dennoch begannen wir, erste Lösungsansätze zu besprechen und Daten herunterzuladen und zu formen.
-Da wir unterschiedliche Merkmale benötigten, mussten wir mehrere Download-Sequenzen durchführen und hatten erst spat einen kompletten Datensatz. Am Ende des Tages gab es ein Check-in mit allen Teilnehmern und ein Gruppenfoto. Es gab jedoch leider nur wenig Interaktion zwischen den verschiedenen Teams. Wir schlossen den Tag mit einem gemeinsamen Abendessen ab, blieben jedoch grösstenteils unter uns. Danach wurde noch weiter gecodet und nach einer Weile hat es mich nach Hause ins Bett gezogen.
+
+Nicht alle Teammitglieder starteten mit der gleichen Codierungsstrategie, was zu einer gewissen Diskrepanz führte. Einige Teilnehmer waren bereits in der explorativen Datenanalyse aktiv, während andere Ideensammlungen betrieben. Dennoch begannen wir, erste Lösungsansätze zu besprechen und Daten herunterzuladen und zu formen.
+Da wir unterschiedliche Merkmale benötigten, mussten wir mehrere Download-Sequenzen durchführen und hatten erst spät einen kompletten Datensatz. 
+
+Am Ende des Tages gab es ein Check-in mit allen Teilnehmern und dazu ein Gruppenfoto. Es gab jedoch leider nur wenig Interaktion zwischen den verschiedenen Teams. Wir schlossen den Tag mit einem gemeinsamen Abendessen ab, blieben jedoch grösstenteils unter uns im Team. Danach wurde noch weiter gecodet und nach einer Weile hat es mich nach Hause ins Bett gezogen.
 
 ### Tag 2
 
-Der zweite Tag begann mit einem individuellen Start. Ich genoss ein leckeres Kaffee und ein Gipfeli, um mich für den Tag zu stärken.
-Die Koordination innerhalb unseres Teams war anfangs etwas mangelhaft, aber ich konnte eine gute Zusammenarbeit mit einigen Teammitgliedern, insbesondere aus Basel Stadt, aufbauen. Und bald einmal hatten wir erste Cluster entdeckt für neue “District-Heatings”.
-Wir sammelten unsere Arbeitsergebnisse zusammen und hatten eine Mittagspause. Wie es oft in Hackathon’s ist hat man am Ende der Tage einen Pitch. Die Präsentation dazu musste man bereits um 14:00 Uhrnachmittags einreichen.
+Der zweite Tag begann mit einem individuellen Start. Ich genoss ein leckeres Kaffee und ein Gipfeli, um mich für den bevorstehenden Tag zu stärken. Die Koordination innerhalb unseres Teams war anfangs etwas mangelhaft, aber ich konnte eine gute Zusammenarbeit mit einigen Teammitgliedern, insbesondere Jan aus dem Studiengang sowie den zwei weiteren Teammitgliedern aufbauen. Und bald einmal hatten wir erste Cluster entdeckt für neue potentielle “District-Heatings”.
+Wir sammelten unsere Arbeitsergebnisse zusammen und hatten eine Mittagspause. Wie es oft in Hackathon’s ist hat man am Ende der Tage einen Pitch. Die Präsentation dazu musste man bereits um 14:00 Uhr nachmittags einreichen.
  
 Somit reichte die Zeit nach der Mittagspause nur noch um Plots und Diagramme der bereits gefundenen Clusters zu machen und in präsentable Form zu bringen. 
-Wir arbeiteten daran, unsere Ergebnisse in eine Präsentation zu integrieren, die die Challenge Owner beim Pitch vorstellen würden. Nach den Schluss-Pitches kam es zu einem Abschluss und einem Apero, bei dem wir die Gelegenheit hatten, unsere Erfahrungen zu teilen und das Erreichte zu feiern. 
+Wir arbeiteten daran, unsere Ergebnisse in eine Präsentation zu integrieren, die die Challenge Owner beim Pitch vorstellen würden.
+Diese wurden dann von den Challenge-Ownern in einem Abschlusspitch vorgestellt.
+
+Nach den Schluss-Pitches kam es zu einer Verabschiedung durch die Organisatoren und einem Apero, bei dem wir die Gelegenheit hatten, unsere Erfahrungen zu teilen und das Erreichte zu feiern. 
 Auch war dort die Beste Zeit die Teilnehmer ausserhalb des Teams kennenzulernen.
-Ich konnte mit einigen Personen etwas networken und habe einige spannende Trainee-programme kennengelernt. Nach etwa einer Stunde spürte ich die Arbeit und die beiden Tage. Zufrieden machte ich mich auf den Nachhauseweg und freue mich auf einen weiteren Hackathon.
+Ich konnte mit einigen Personen etwas networken und habe einige spannende Trainee-Programme kennengelernt. Nach etwa einer Stunde spürte ich die Arbeit und die beiden Tage und war allmählich etwas müde. Zufrieden machte ich mich auf den Weg nachhause und freue mich auf einen weiteren Hackathon.
 
 
 ## Wie waren die Hackdays?
 
-Als Reminder die Kriterien einer partizipativen Veranstaltung nach (Fremer & Naughton, 2017):
+Als Reminder die Kriterien einer partizipativen Veranstaltung nach Fremer & Naughton sind:
 •	Klare und glaubwürdige Kommunikation
 •	Integration der Ideen der Teilnehmer
 •	Förderung von Kooperation und Vielfalt
@@ -104,16 +108,16 @@ Als Reminder die Kriterien einer partizipativen Veranstaltung nach (Fremer & Nau
 •	Ergebnisoffenheit
 •	Mut zu unkonventionellen Ansätzen
 Ich möchte mit diesen Kriterien die Energy Data Hack Days 2023 bewerten und diskutieren.
-![Alt text](https://energydatahackdays.ch/typo3temp/assets/_processed_/8/1/csm_EDHD-Gruppenfoto-2023-Logos_9e5a592ea0.jpg)
+![Gruppenfoto Hackdays 2023](https://energydatahackdays.ch/typo3temp/assets/_processed_/8/1/csm_EDHD-Gruppenfoto-2023-Logos_9e5a592ea0.jpg)
 
 ### Kommunikation:
-Die Kommunikation der Organisatoren war stets glaubwürdig und die Rahmenbedingungen der HackDays wurden bereits anfangs abgesteckt. Ein Verbesserungspotential gebührt der Kommunikation zu Programmpunkten. Es wurde ein Slack-Channel eingerichtet welcher dann aber kaum genutzt wurde. Anpassungen zu den offerierten Essen wurden sehr zeitnah kommuniziert und da ich den FHNW Campus bereits kannte war es für mich kein grosses Problem diese Änderungen, vor allem örtlich, nachzuvollziehen. Andere Teilnehmer mussten zuerst den Campus verstehen um das Nachtesssen geniessen zu können. Diese Punkte sind sicher auch der neuen Location (fanden das erste Mal am FHNW Campus statt) geschuldet. Auch war nicht ganz klar ob die Teilnehmenden oder die Challenge-Owner die Schlusspräsentation halten würden. Im Endeffekt wurde dies einfach im Team entschieden. Alles in allem fühlte ich mich jedoch gut informiert und motiviert.
+Die Kommunikation der Organisatoren war stets glaubwürdig und die Rahmenbedingungen der Hackdays wurden bereits anfangs abgesteckt. Ein Verbesserungspotential hat die Kommunikation zu den verschiedenen Programmpunkten. Es wurde ein Slack-Channel eingerichtet welcher dann aber kaum genutzt wurde um diese zu kommunizieren. Anpassungen zu den offerierten Essen wurden sehr zeitnah kommuniziert und da ich den FHNW Campus bereits kannte war es für mich kein grosses Problem diese Änderungen, vor allem örtlich, nachzuvollziehen. Andere Teilnehmer mussten zuerst den Campus verstehen um das Nachtesssen geniessen zu können. Diese Punkte sind sicher auch dem neuen Durchführungsort (Hackdays fanden das erste Mal am FHNW Campus statt) geschuldet. Auch war nicht ganz klar ob die Teilnehmenden oder die Challenge-Owner die Schlusspräsentation halten würden. Im Endeffekt wurde dies einfach im Team entschieden. Alles in allem fühlte ich mich jedoch gut informiert und motiviert.
 
 ### Integration der Ideen der Teilnehmer
-Meine Challenge Owner machten praktisch keine Vorgaben zur angestrebten Lösung. Somit wurden unsere Ideen vollständig angenommen und dann auch durch die Challenge-Owner präsentiert. Andere Teams hatten Challenges mit viel engeren Rahmenbedingungen. Beispielsweise bereits vorgegebenenes Coderepository mit Zielformat. Ich denke dies kann auch ein Vorteil sein da der Einstieg einfacher fällt, jedoch ist die Ideenvielfalt somit Kleiner.  Ein Vorschlag meinerseits wäre es den Grad der bereits vorgegebenen Challengeteile an den Pitches zu kommunizieren. 
-
+Meine Challenge Owner machten praktisch keine Vorgaben zur angestrebten Lösung. Somit wurden unsere Ideen vollständig angenommen und dann auch durch die Challenge-Owner präsentiert. Andere Teams hatten Challenges mit viel engeren Rahmenbedingungen. Beispielsweise bereits vorgegebenene Coderepositories und ein Zielformat. Ich denke dies kann auch ein Vorteil sein da der Einstieg einfacher fällt, jedoch ist die Ideenvielfalt somit kleiner. Ein Vorschlag meinerseits wäre es den Grad der bereits vorgegebenen Challengeteile an den Pitches zu kommunizieren. Die Partizipation für verschiedene technische Lösungen ist auch mit vorgebenen Rahmendbedingungen möglich.
+#TODO:
 ### Förderung von Kooperation und Vielfalt:
-Die Energy Data Hack Days sind grundsätzlich offen für Personen mit jeglichem Hintergrund. Das ist sehr toll! Leider ziehen sie jedoch hauptsächlich technikinteressierte, männliche Teilnehmer an. In meinem Team hatten wir nur Männer. Andere Teams hatten einige Frauen, diese sind aber leider an zwei Händen abzählbar. Ich denke die Hackdays könnten hier noch etwas besser die Frauenförderung umsetzen. Andere Hackathons sind ja bereits für Frauen ausgelegt und fördern deren Teilnahme explizit. 
+Die Hackdays sind grundsätzlich offen für Personen mit jeglichem Hintergrund. Das ist sehr toll! Leider ziehen sie jedoch hauptsächlich technikinteressierte, männliche Teilnehmer an. In meinem Team hatten wir nur Männer. Andere Teams hatten einige Frauen, diese sind aber leider an zwei Händen abzählbar. Ich denke die Hackdays könnten hier noch etwas besser die Frauenförderung umsetzen. Andere Hackathons sind ja bereits für Frauen ausgelegt und fördern deren Teilnahme explizit. 
 Die Hintergründe der Teilnehmenden waren etwas vielfältiger als deren Geschlecht. Im Team hatten wir Agronomen, Data-Scientists, ICT-Techniker, PHD’s und Wirtschaftler. Auch hatten wir einen Mix aus Sprachen. Es wurde hauptsächlich Englisch gesprochen. Jedoch auch Deutsch und Italienisch. 
 
 ### Raumgestaltung:
