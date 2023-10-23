@@ -159,22 +159,20 @@ Die Hackdays würde ich innerhalb meiner Challenge-Gruppe als sehr partizipativ 
 <img src="/images/energyhackdays/2023/2.jpg" align="center" alt="Mein Challenge-Team">
 <figcaption style="text-align: center;">Mein Challenge-Team</figcaption>
 </figure>
-Über alle Gruppen hinweg ist die Partizitpation sehr spärlich und dies macht die gesamte Veranstaltung nur ansatzweise partizipativ. Die Unterscheidung dieser zwei Umfelde finde ich jedoch wichtig da die Hackdays darauf aufbauen.
+Über alle Gruppen hinweg war die Partizipation sehr spärlich und dies macht die gesamte Veranstaltung nur ansatzweise partizipativ. Die Unterscheidung dieser zwei Umfelde finde ich jedoch wichtig da die Hackdays darauf aufbauen.
 
 Eine gute Erfahrung war es für mich alle mal da ich neue Kontakte knüpfen, neue Methoden kennenlernen und in einem fremden Team kollaborieren konnte.
 An den Hackdays teilzunehmen machte mir Spass und ich kann mir gut vorstellen diese wieder zu besuchen. Eine Möglichkeit für mich wäre auch einen anderen Hackathon desselben Organisators zu besuchen.
 
 <div style="margin-top: 100px;">
-<h1>Quellen</h1>
+  <h1>Quellen</h1>
 
-<div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;">
-  <div class="csl-entry">Bundesamt für Statistik. (2023, September 26). <i>Stimmbeteiligung</i>. Stimmbeteiligung | BFS. <a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/abstimmungen/stimmbeteiligung.html">https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/abstimmungen/stimmbeteiligung.html</a></div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=webpage&amp;rft.title=Stimmbeteiligung&amp;rft.description=Entwicklung%20der%20Beteiligung%20an%20eidgen%C3%B6ssischen%20Volksabstimmungen%20auf%20nationaler%20und%20kantonaler%20Ebene.&amp;rft.identifier=https%3A%2F%2Fwww.bfs.admin.ch%2Fbfs%2Fde%2Fhome%2Fstatistiken%2Fpolitik%2Fabstimmungen%2Fstimmbeteiligung.html&amp;rft.aulast=Bundesamt%20f%C3%BCr%20Statistik&amp;rft.au=Bundesamt%20f%C3%BCr%20Statistik&amp;rft.date=2023-09-26&amp;rft.language=de"></span>
-  <div class="csl-entry">Fremer, T., &amp; Naughton, C. (2017). MEINS: Partizipative Events. In C. Bühnert &amp; S. Luppold (Eds.), <i>Praxishandbuch Kongress-, Tagungs- und Konferenzmanagement: Konzeption &amp; Gestaltung, Werbung &amp; PR, Organisation &amp; Finanzierung</i> (pp. 733–748). Springer Fachmedien. <a href="https://doi.org/10.1007/978-3-658-08309-0_49">https://doi.org/10.1007/978-3-658-08309-0_49</a></div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A978-3-658-08309-0&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=MEINS%3A%20Partizipative%20Events&amp;rft.place=Wiesbaden&amp;rft.publisher=Springer%20Fachmedien&amp;rft.aufirst=Torsten&amp;rft.aulast=Fremer&amp;rft.au=Torsten%20Fremer&amp;rft.au=Carl%20Naughton&amp;rft.au=Claus%20B%C3%BChnert&amp;rft.au=Stefan%20Luppold&amp;rft.date=2017&amp;rft.pages=733-748&amp;rft.spage=733&amp;rft.epage=748&amp;rft.isbn=978-3-658-08309-0&amp;rft.language=de"></span>
-  <div class="csl-entry">OpenAI. (2023, October 10). <i>ChatGPT</i>. (September 25 Version) [Large Language Model]. <a href="https://chat.openai.com">https://chat.openai.com</a></div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=webpage&amp;rft.title=ChatGPT&amp;rft.identifier=https%3A%2F%2Fchat.openai.com&amp;rft.au=undefined&amp;rft.date=2023-10-10&amp;rft.language=en-US"></span>
-</div>
-
-
+  <div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;">
+    <div class="csl-entry">Bundesamt für Statistik. (2023, September 26). <i>Stimmbeteiligung</i>. Stimmbeteiligung | BFS. <a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/abstimmungen/stimmbeteiligung.html">https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/abstimmungen/stimmbeteiligung.html</a></div>
+    <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=webpage&amp;rft.title=Stimmbeteiligung&amp;rft.description=Entwicklung%20der%20Beteiligung%20an%20eidgen%C3%B6ssischen%20Volksabstimmungen%20auf%20nationaler%20und%20kantonaler%20Ebene.&amp;rft.identifier=https%3A%2F%2Fwww.bfs.admin.ch%2Fbfs%2Fde%2Fhome%2Fstatistiken%2Fpolitik%2Fabstimmungen%2Fstimmbeteiligung.html&amp;rft.aulast=Bundesamt%20f%C3%BCr%20Statistik&amp;rft.au=Bundesamt%20f%C3%BCr%20Statistik&amp;rft.date=2023-09-26&amp;rft.language=de"></span>
+    <div class="csl-entry">Fremer, T., &amp; Naughton, C. (2017). MEINS: Partizipative Events. In C. Bühnert &amp; S. Luppold (Eds.), <i>Praxishandbuch Kongress-, Tagungs- und Konferenzmanagement: Konzeption &amp; Gestaltung, Werbung &amp; PR, Organisation &amp; Finanzierung</i> (pp. 733–748). Springer Fachmedien. <a href="https://doi.org/10.1007/978-3-658-08309-0_49">https://doi.org/10.1007/978-3-658-08309-0_49</a></div>
+    <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A978-3-658-08309-0&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=MEINS%3A%20Partizipative%20Events&amp;rft.place=Wiesbaden&amp;rft.publisher=Springer%20Fachmedien&amp;rft.aufirst=Torsten&amp;rft.aulast=Fremer&amp;rft.au=Torsten%20Fremer&amp;rft.au=Carl%20Naughton&amp;rft.au=Claus%20B%C3%BChnert&amp;rft.au=Stefan%20Luppold&amp;rft.date=2017&amp;rft.pages=733-748&amp;rft.spage=733&amp;rft.epage=748&amp;rft.isbn=978-3-658-08309-0&amp;rft.language=de"></span>
+    <div class="csl-entry">OpenAI. (2023, October 10). <i>ChatGPT</i>. (September 25 Version) [Large Language Model]. <a href="https://chat.openai.com">https://chat.openai.com</a></div>
+    <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=webpage&amp;rft.title=ChatGPT&amp;rft.identifier=https%3A%2F%2Fchat.openai.com&amp;rft.au=undefined&amp;rft.date=2023-10-10&amp;rft.language=en-US"></span>
+  </div> 
 </div>
