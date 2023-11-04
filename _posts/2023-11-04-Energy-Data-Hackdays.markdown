@@ -113,24 +113,26 @@ Als Reminder die Kriterien einer partizipativen Veranstaltung nach Fremer & Naug
 * Ergebnisoffenheit
 * Mut zu unkonventionellen Ansätzen
 
-Ich möchte mit diesen Kriterien die Energy Data Hack Days 2023 bewerten und diskutieren.
+Ich möchte mit diesen Kriterien die Hackdays bewerten und diskutieren.
 <figure>
-<img src="https://energydatahackdays.ch/typo3temp/assets/_processed_/8/1/csm_EDHD-Gruppenfoto-2023-Logos_9e5a592ea0.jpg" align="center" alt="Gruppenfoto Hackdays 2023">
-<figcaption style="text-align: center;">Gruppenfoto Hackdays 2023</figcaption>
+<img src="/images/energyhackdays/2023/2.jpg" align="center" alt="Mein Challenge-Team">
+<figcaption style="text-align: center;">Mein Challenge-Team</figcaption>
 </figure>
-#TODO: Correct until here
+
 ### Kommunikation
 
-Die Kommunikation der Organisatoren war stets glaubwürdig und die Rahmenbedingungen der Hackdays wurden bereits anfangs abgesteckt. Ein Verbesserungspotential hat die Kommunikation zu den verschiedenen Programmpunkten. Es wurde ein Slack-Channel eingerichtet welcher dann aber kaum genutzt wurde um diese zu kommunizieren. Anpassungen zu den offerierten Essen wurden sehr zeitnah kommuniziert und da ich den FHNW Campus bereits kannte war es für mich kein grosses Problem diese Änderungen, vor allem örtlich, nachzuvollziehen. Andere Teilnehmer mussten zuerst den Campus verstehen um das Nachtesssen geniessen zu können. Diese Punkte sind sicher auch dem neuen Durchführungsort (Hackdays fanden das erste Mal am FHNW Campus statt) geschuldet. Auch war nicht ganz klar ob die Teilnehmenden oder die Challenge-Owner die Schlusspräsentation halten würden. Im Endeffekt wurde dies einfach im Team entschieden. Alles in allem fühlte ich mich jedoch gut informiert und motiviert.
+Die Kommunikation der Organisatoren war stets glaubwürdig und die Rahmenbedingungen der Hackdays wurden bereits anfangs abgesteckt. Ein Verbesserungspotential gibt es bei der Kommunikation zu den verschiedenen Programmpunkten. Es wurde ein Slack-Channel eingerichtet welcher dann aber kaum genutzt wurde um diese zu kommunizieren. Anpassungen zu den offerierten Essen wurden sehr zeitnah kommuniziert und da ich den FHNW Campus bereits kannte war es für mich kein grosses Problem diese Änderungen, vor allem örtlich, nachzuvollziehen. Andere Teilnehmer mussten zuerst den Campus verstehen um das Nachtesssen geniessen zu können. Diese Punkte sind sicher auch dem neuen Durchführungsort, die Hackdays fanden das erste Mal am FHNW Campus statt, geschuldet. Auch war nicht ganz klar ob die Teilnehmenden oder die Challenge-Owner die Schlusspräsentation halten würden. Im Endeffekt wurde dies einfach im Team entschieden. Alles in allem fühlte ich mich jedoch gut informiert.
 
 ### Integration der Ideen der Teilnehmer
 
-Meine Challenge Owner machten praktisch keine Vorgaben zur angestrebten Lösung. Somit wurden unsere Ideen vollständig angenommen und dann auch durch die Challenge-Owner präsentiert. Andere Teams hatten Challenges mit viel engeren Rahmenbedingungen. Beispielsweise bereits vorgegebenene Coderepositories und ein Zielformat. Ich denke dies kann auch ein Vorteil sein da der Einstieg einfacher fällt, jedoch ist die Ideenvielfalt somit kleiner. Ein Vorschlag meinerseits wäre es den Grad der bereits vorgegebenen Challengeteile an den Pitches zu kommunizieren. Die Partizipation für verschiedene technische Lösungen ist auch mit vorgebenen Rahmendbedingungen möglich.
+Meine Challenge Owner machten praktisch keine Vorgaben zur angestrebten Lösung. Somit wurden unsere Ideen vollständig angenommen und dann auch durch die Challenge-Owner präsentiert. Andere Teams hatten Challenges mit viel engeren Rahmenbedingungen. Beispielsweise bereits vorgegebenene Coderepositories und ein Zielformat. Ich denke dies kann auch ein Vorteil sein da der Einstieg einfacher fällt, jedoch ist die Ideenvielfalt somit kleiner. Ein Vorschlag meinerseits wäre es den Grad der bereits vorgegebenen Challengeteile an den Pitches zu kommunizieren. Das partizipative Tüfteln an verschiedenen technischen Lösungen ist auch mit vorgebenen Rahmenbedingungen möglich.
 
 ### Förderung von Kooperation und Vielfalt
 
-Die Hackdays sind grundsätzlich offen für Personen mit jeglichem Hintergrund. Das ist sehr toll! Leider ziehen sie jedoch hauptsächlich technikinteressierte, männliche Teilnehmer an. In meinem Team hatten wir nur Männer. Andere Teams hatten einige Frauen, diese sind aber leider an zwei Händen abzählbar. Ich denke die Hackdays könnten hier noch etwas besser die Frauenförderung umsetzen. Andere Hackathons sind ja bereits für Frauen ausgelegt und fördern deren Teilnahme explizit.
-Die proffesionellen Hintergründe der Teilnehmenden waren vielfältiger. Im Team hatten wir Agronomen, Data-Scientists, ICT-Techniker, PHD’s und Wirtschaftler. Auch hatten wir einen Mix aus Sprachen in unserem Team. Es wurde hauptsächlich Englisch gesprochen jedoch auch Deutsch und Italienisch.
+Die Hackdays sind grundsätzlich offen für Personen mit jeglichem Hintergrund. Das ist sehr toll! Leider ziehen sie jedoch hauptsächlich technikinteressierte, männliche Teilnehmer an. In meinem Team hatten wir nur Männer als Teilnehmende. Andere Teams hatten einige Frauen, diese sind aber leider an zwei Händen abzählbar. Ich denke die Hackdays könnten hier noch etwas besser die Frauenförderung umsetzen. Andere Hackathons sind ja bereits für Frauen ausgelegt und fördern deren Teilnahme explizit.
+Die beruflichen Hintergründe der Teilnehmenden waren vielfältiger. Im Team hatten wir Agronomen, Data-Scientists, ICT-Techniker, PHD’s und Wirtschaftler. Auch hatten wir einen Mix aus Sprachen in unserem Team. Es wurde hauptsächlich Englisch gesprochen jedoch auch Deutsch und Italienisch.
+
+Die Kooperation wurde meiner Meinung sowohl in unserem Challenge-Team zu wenig gefördert. Es bildeten sich schnell Gruppen im Team die dann an ihren Ansätzen arbeiteten. Der Austausch war hauptsächlich mit den Challenge-Ownern und nicht unter den Gruppenmitgliedern.
 
 ### Raumgestaltung
 
@@ -139,31 +141,33 @@ In unserer Gruppe konnten wir uns über Ideen und Ansätze auf den diversen Whit
 
 ### Innovative Technologien
 
-Hier kann als positives Beispiel der Gebrauch von Slack hervorgestrichen werden. Es bestand bereits zum Start pro Challenge ein Channel sowie ein Hauptchannel zur Verkündung von allgemeinen Informationen.
+Hier kann als positives Beispiel der Gebrauch von Slack hervorgestrichen werden. Es bestand bereits zum Start pro Challenge ein Channel sowie ein Hauptchannel zur Verkündung von allgemeinen Informationen. Auch wenn dieser dann kaum genutzt wurde finde ich den Ansatz sehr lobenswert. Möglicherweise müssten diese Channels noch expliziter präsentiert werden.
 
 ### Flexibilität und Freiräume
 
-Die Hackdays liessen alle Gruppen selbst und eigenorgansiert arbeiten. Auch unsere Challenge-Owners waren sehr zuvorkommend und offen für alle Ansätze, wie ich später erfuhr. Die weniger technisch versierten Teilnehmenden wurden von oftmals von den Challenge-Ownern oder den Teammitgliedern bem Coden unterstüzt. Auch war die allgemeine Stimmung zwischen den Unternehmen, welche teilweise in Konkurrenz zueinander stehen sehr angenehm.
+Die Hackdays liessen alle Gruppen selbst und eigenorgansiert arbeiten. Auch unsere Challenge-Owners waren sehr zuvorkommend und offen für alle Ansätze. Die weniger technisch versierten Teilnehmenden wurden oftmals von den Challenge-Ownern oder den Teammitgliedern bem Coden unterstützt während die versierteren ihre Algorithmen eigenständig umsetzen konnten.
 
 ### Ergebnisoffenheit
 
 Meine Challenge war auf jeden Fall ergebnisoffen. Wir hatten keine Vorgaben und jeder Ansatz war willkommen. Bei anderen Challenges war wie bereits erwähnt das Format und das Ziel klarer definiert.
 
-Leider war beim Schlusspitch das Format (Powerpoint-Slides) etwas einengend. Viele Challenges hätten interaktive Visualisierungen, Webseiten-Prototypen oder sogar Modelle zeigen können. Hier könnten die Organisatoren das Format für Anderes öffnen.
+Leider war beim Schlusspitch das Format (Powerpoint-Slides) etwas einengend. Viele Challenges hätten interaktive Visualisierungen, Webseiten-Prototypen oder sogar Modelle zeigen können. Hier könnten die Organisatoren das Format öffnen.
 
 ### Mut zu unkonventionellen Ansätzen
 
-Die Hackdays waren sehr konventionell. Ich habe bereits andere Hackathons besucht und dieser stach mit keinem Aspekt heraus. Das einzige Alleinstellungsmerkmal ist die Fokusierung auf Daten aus dem Energiebereich. Den Hackdays würde ich vorschlagen etwas mehr Kollaboration zwischen den Teams zu fördern. Zum Beispiel mit einem Check-In zwischen den Teams. Dabei könnte jedes Team ein aktuelles Problem schildern und vielleicht gleich Spontanantworten zu ihren Fragen erhalten. Auch kann ich mir vorstellen dass ein moderierter 'Methoden-Problem' Slack Channel spannend wäre um die Kollaboration zu fördern. In diesem könnte dann jedes Teams seine Probleme schildern und auch Antworten geben. Möglicherweise wäre auch eine Competition oder eine Kollaboration zwischen zwei Challenges ein inspirierender und motivierender Ansatz.
+Die Hackdays waren sehr konventionell. Ich habe bereits andere Hackathons besucht und dieser stach mit keinem Aspekt heraus. Das einzige Alleinstellungsmerkmal ist die Fokusierung auf Daten aus dem Energiebereich. Den Hackdays würde ich vorschlagen etwas mehr Kollaboration zwischen den Teams zu fördern. Zum Beispiel mit einem Check-In zwischen den Teams. Dabei könnte jedes Team ein aktuelles Problem schildern und vielleicht gleich Spontanantworten zu ihren Fragen erhalten. Auch kann ich mir vorstellen dass ein moderierter *Methoden-Problem* Slack Channel spannend wäre um die Kollaboration zu fördern. In diesem könnte dann jedes Teams seine Probleme schildern und auch Antworten geben. Möglicherweise wäre auch eine Competition oder eine Kollaboration zwischen zwei Challenges ein inspirierender und motivierender Ansatz.
 
 
 ## Fazit
 
-Die Hackdays würde ich innerhalb meiner Challenge-Gruppe als partizipativ einstufen.
+Die Hackdays würde ich innerhalb meiner Challenge-Gruppe als einigermassen partizipativ einstufen. Mit den Challenge-Ownern und einigen Teammitgliedern konnte ich mich austauschen und zusammenarbeiten, mit einigen aber auch nicht.
+
+Zwischen den verschiedenen Gruppen war die Partizipation sehr spärlich und dies macht für mich die gesamte Veranstaltung nur ansatzweise partizipativ.
+
 <figure>
-<img src="/images/energyhackdays/2023/2.jpg" align="center" alt="Mein Challenge-Team">
-<figcaption style="text-align: center;">Mein Challenge-Team</figcaption>
+<img src="https://energydatahackdays.ch/typo3temp/assets/_processed_/8/1/csm_EDHD-Gruppenfoto-2023-Logos_9e5a592ea0.jpg" align="center" alt="Gruppenfoto Hackdays 2023">
+<figcaption style="text-align: center;">Gruppenfoto Hackdays 2023</figcaption>
 </figure>
-Über alle Gruppen hinweg war die Partizipation sehr spärlich und dies macht die gesamte Veranstaltung nur ansatzweise partizipativ. Die Unterscheidung dieser zwei Umfelde finde ich jedoch wichtig da die Hackdays darauf aufbauen.
 
 Eine gute Erfahrung war es für mich alle mal da ich neue Kontakte knüpfen, neue Methoden kennenlernen und in einem fremden Team kollaborieren konnte.
 An den Hackdays teilzunehmen machte mir Spass und ich kann mir gut vorstellen diese wieder zu besuchen. Eine Möglichkeit für mich wäre auch einen anderen Hackathon desselben Organisators zu besuchen.
