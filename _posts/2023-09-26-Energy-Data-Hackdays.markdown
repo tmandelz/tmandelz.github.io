@@ -11,7 +11,7 @@ Das erste, was mir beim Stichwort "partizipativ" einfällt, ist die schweizerisc
 
 ## Was ist ein partizipatives Format?
 
-Nach (Fremer & Naughton, 2017) zusammengefasst mit (OpenAI., 2023) erweisen sich die nachstehenden Faktoren als Herausforderungen, die jedoch massgeblich darüber entscheiden, ob eine Veranstaltung mit partizipativem Charakter erfolgreich verläuft:
+Nach Fremer & Naughton (Fremer & Naughton, 2017) zusammengefasst mit Chat-GPT (OpenAI., 2023) erweisen sich die nachstehenden Faktoren als Herausforderungen, die jedoch massgeblich darüber entscheiden, ob eine Veranstaltung mit partizipativem Charakter erfolgreich verläuft:
 
 • **Klare und glaubwürdige Kommunikation**: Die Kommunikation seitens der Organisatoren muss klar und glaubwürdig sein. Versprechungen, wie die Umsetzung von Ideen, sollten eingehalten werden, um die Motivation der Teilnehmer aufrechtzuerhalten.
 
@@ -29,28 +29,30 @@ Nach (Fremer & Naughton, 2017) zusammengefasst mit (OpenAI., 2023) erweisen sich
 
 • **Mut zu unkonventionellen Ansätzen**: Die Organisatoren sollten den Mut haben, neue Ansätze zu verfolgen, selbst wenn diese von traditionellen Methoden abweichen, um den Erfolg von partizipativen Events sicherzustellen.
 
-Sie beziehen sich hier hauptsächlich auf den Arbeitskontext und diskutieren dazu die Umsetzung Events von wie beispielsweise Kongresse, Tagungen und Konferenzen. Dies soll aber nicht stören und die Kriterien können auf einen professionellen Event wie der von mir besuchte Hackathon problemlos angewendet werden.
+Sie beziehen sich hier hauptsächlich auf den Arbeitskontext und diskutieren dazu die Umsetzung von Events wie beispielsweise Kongresse, Tagungen und Konferenzen. Dies soll aber nicht stören und die Kriterien können auf einen professionellen Event wie der von mir besuchte Hackathon angewendet werden.
 
 ## Weshalb die Energy Data Hackdays 2023?
 
 Meine Entscheidung, an den **Energy Data Hackdays 2023**, nachfolgend nur noch *Hackdays* genannt, teilzunehmen, basierte auf verschiedenen Gründen. Zunächst einmal war die geografische Nähe zur Fachhochschule Nordwestschweiz (FHNW) ein entscheidender Faktor. Die unmittelbare Nähe ermöglichte es mir die Reisezeiten zu minimieren. Damit konnte ich den Fokus auf die eigentliche Veranstaltung und deren Inhalte legen.
 
-Ein weiterer massgeblicher Faktor war mein persönliches und auch dass momentan gestärkte gesellschaftliche Interesse am Energiesektor. Als Studierender des Data-Science Studiengangs bin ich seit dem letzten *Energiekrisenwinter 2022/2023* von den vielfältigen und volatilen Aspekten des Energiesektors fasziniert. Die Möglichkeit, an einer Veranstaltung teilzunehmen, die sich intensiv mit diesem spannenden Gebiet und deren Herausfordernungen auseinandersetzt, reizte mich sehr.
+Ein weiterer massgeblicher Faktor war mein persönliches und auch dass momentan gestärkte gesellschaftliche Interesse am Energiesektor. Als Studierender des Data-Science Studiengangs bin ich seit dem letzten **Energiekrisenwinter 2022/2023** von den vielfältigen und volatilen Aspekten des Energiesektors fasziniert. Die Möglichkeit, an einer Veranstaltung teilzunehmen, die sich intensiv mit diesem spannenden Gebiet und deren Herausforderungen auseinandersetzt, reizte mich sehr.
 Des Weiteren zog mich die Aussicht auf spannende Networking-Möglichkeiten an. Aus der Erfahrung von früheren Hackathons erkannte ich den Wert, Gleichgesinnte, Experten und Fachleute aus der Branche zu treffen. Die Teilnahme an offenen Veranstaltungen versprach nicht nur den Austausch von Ideen, sondern auch die Möglichkeit, wertvolle berufliche Kontakte zu knüpfen. Ich kann mir eine berufliche Zukunft in der Energiebranche gut vorstellen. Bereits jetzt Kontakte zu knüpfen kann nicht schaden.
 
 Schliesslich war ich auch von den kniffligen Aufgabenstellungen, die teilweise vorab einsichtbar waren, sehr angetan. Die Herausforderung, komplexe Probleme zu analysieren und innovative Lösungen zu erarbeiten, reizt mich sowohl im Studiengang als auch ausserhalb enorm. Ich sah dies als eine Gelegenheit, meine Fähigkeiten in der praktischen Anwendung meines Studienwissens zu erweitern und meine Kreativität herauszufordern.
-Insgesamt führte die Kombination dieser Gründe zur Entscheidung, an den Hackdays teilzunehmen. Sie versprachen nicht nur persönliche Weiterentwicklung, sondern auch eine bereichernde Erfahrung im Energiesektor sowie die Möglichkeit, wertvolle Kontakte zu knüpfen und neue Erkenntnisse zu gewinnen.
 
 ## Erwartungen an die Hackdays?
 
-Bei meiner Entscheidung zur Teilnahme an den Hackdays hegte ich bestimmte Erwartungen, die meine Erfahrungen bereits vergangener Hackathon’s widerspiegelten.
+Bei meiner Entscheidung zur Teilnahme an den Hackdays hegte ich bestimmte Erwartungen, die ich aus den Erfahrungen bereits vergangener Hackathon’s ableite.
 Zuallererst erwartete ich, auf motivierte Challenge Owner (Aufgabensteller/Innen) und ebenso engagierte Teilnehmende zu treffen. Mein Wunsch war es, dass die Veranstaltungen von Organisationen und Firmen durchgeführt, die leidenschaftlich für ihr Fachgebiet sind und bereit sind, ihr Wissen, ihre Daten und ihre Erfahrungen grosszügig zu teilen. Gleichzeitig hoffte ich auf die Gelegenheit, Gleichgesinnte zu treffen, die genauso motiviert waren wie ich und sich darauf freuten, gemeinsam an spannenden Herausforderungen zu arbeiten.
-Eine meiner zentralen Erwartungen bestand darin, auf neuartige oder innovative Aufgabenstellungen zu stossen. Ich war gespannt darauf, wie die gestellten Aufgaben konzipiert sein würden. Mein Ziel war es, mich geistig herausgefordert zu fühlen und die Möglichkeit zu haben, an Problemen zu arbeiten, die kreative und unkonventionelle Lösungsansätze erforderten. Diese Erwartung wurde in anderen Hackathons stets erfüllt und war für mich ein Musskriterium.
+
+Eine weitere zentrale Erwartung bestand darin, auf neuartige oder innovative Aufgabenstellungen zu stossen. Ich war gespannt darauf, wie die gestellten Aufgaben konzipiert sein würden. Mein Ziel war es, mich geistig herausgefordert zu fühlen und die Möglichkeit zu haben, an Problemen zu arbeiten, die kreative und unkonventionelle Lösungsansätze erforderten. Diese Erwartung wurde in anderen Hackathons stets erfüllt und war für mich ein Musskriterium.
+
 Darüber hinaus hegte ich die Hoffnung, dass eine der gestellten Aufgabenstellungen sich möglicherweise mit Geodaten beschäftigen würde. Eine solche Aufgabenstellung hätte für mich eine besonders interessante Gelegenheit dargestellt, in die Welt der Geodaten und der Geoinformationssysteme (GIS) einzutauchen. Zusätzlich hätte sie mir einen guten Einstieg in die Arbeit der Challenge-X, in welcher ich mich ebenfalls mit GIS Daten beschäftigen werde, ermöglicht.
 
 ## Was sind die Hackdays?
 
-Die Hackdays sind schweizweite Hackathons im Energiesektor, die innovative Lösungen für energierelevante Fragestellungen fördern. Organisiert von <a href="https://www.opendata.ch">opendata.ch</a>, der Hochschule Luzern (HSLU) und dem Hightech Zentrum Aargau, bringen sie Analysten, Programmierer, Studierende und branchenweite Experten zusammen. Die Veranstaltung konzentriert sich auf Themen wie Smart Homes, Districts und Cities, Endkundenbedürfnisse, dezentrale Energieproduktion und Versorgungssicherheit. Dabei steht die Nutzung und Sicherheit von Energiedaten im Vordergrund.
+Die Hackdays sind schweizweite Hackathons im Energiesektor, die innovative Lösungen für energierelevante Fragestellungen fördern. Organisiert von <a href="https://www.opendata.ch">opendata.ch</a>, der Hochschule Luzern (HSLU) und dem Hightech Zentrum Aargau, bringen sie Analysten, Programmierer, Studierende und branchenweite Experten zusammen. Die Veranstaltung konzentriert sich auf Themen wie Smart-Homes, -Districts und -Cities, Endkundenbedürfnisse, dezentrale Energieproduktion und Versorgungssicherheit. Dabei steht die Nutzung und Sicherheit von Energiedaten im Vordergrund.
+
 Swissgrid, Axpo, verschiedene Energiewerke und andere Unternehmen der Energiebranche stellen spezifische Aufgaben (Challenges) vor, die von den Teilnehmern während des Hackathons gelöst werden. Die Veranstaltung fördert die Zusammenarbeit, offene Innovation und den Austausch von Ideen. Ein zentrales Anliegen ist es, die Verbindung zwischen Netzplanung, Asset-Management und Stadtentwicklung im Energiebereich herzustellen. Die Hackdays bieten eine spannende Gelegenheit, die Innovationskraft im Energiesektor zu fördern und die Zusammenarbeit zwischen verschiedenen Interessengruppen zu stärken.
 
 ## Journal der Hackdays
@@ -61,10 +63,11 @@ Während meiner Teilnahme an den Hackdays habe ich aktiv dazu beigetragen, die E
 
 Der erste Tag startete mit Kaffee und Gipfeli um 09:00 Uhr. Gleich anschliessend eine zunächst etwas langsame Einführung durch Keynote-Sprecher der FHNW und der Organisatoren. Dabei wurden die Rahmenbedingungen und Infrastruktur (FHNW-Campus) erklärt. Für mich als FHNW-Student war dies eine redundante Information. Ich schaute mich lieber um und studierte bereits die Plakate mit den Beschreibungen der Challenges.
 Nach den Keynotes pitchten alle Challenge-Owner ihre Challenges. Dabei waren einige überzeugender als andere und ich musste meine Präferenzen bereits wieder überdenken. Etwa drei Challenges waren meine Favorites. Nach diesen Pitches konnte man die Challenge-Ownern an ihren Plakaten ausfragen.
+
 Meine Leitfragen dabei waren die folgenden:
-• Habt Ihr einen technische Person mit welcher man Fragen oder Ideen besprechen kann?
-• Habt ihr eine konkrete Fragestellung die in zwei Tagen erarbeitbar ist?
-• Habt Ihr GIS Daten?
+* Habt Ihr einen technische Person mit welcher man Fragen oder Ideen besprechen kann?
+* Habt ihr eine konkrete Fragestellung die in zwei Tagen erarbeitbar ist?
+* Habt Ihr GIS Daten?
 
 Schnell habe ich mich für die “Spatial Clustering for district energy” Challenge entschieden.
 <figure>
@@ -75,19 +78,19 @@ Weitere Teilnehmer entschieden sich ebenfalls für diese Challenge und ein Team 
 Es gab jedoch einige anfängliche Herausforderungen, einige Teammitglieder hatten bereits ohne formelle Vorstellung der Teammitglieder mit der Arbeit begonnen.
 Glücklicherweise gab es eine hilfreiche Einführung von Stefano, einer der Challenge-Owner, bei der uns die bestehende Softwarelösung gezeigt wurde. Nach dieser Vorstellung haben sich auch alle Mitglieder vorgestellt und ihre Stärken und Schwächen erwähnt. Dann war es bereits Zeit für eine kurze Mittagspause. Bereits in der Pause startend fand gleich danach eine Besprechung mit allen Teilnehmern und den weiteren dazugestossenen technisch versierteren Challenge Ownern statt.
 
-Nicht alle Teammitglieder starteten mit der gleichen Codierungsstrategie, was zu einer gewissen Diskrepanz führte. Einige Teilnehmer waren bereits in der explorativen Datenanalyse aktiv, während andere Ideensammlungen betrieben. Dennoch begannen wir, erste Lösungsansätze zu besprechen und Daten herunterzuladen und zu formen.
+Nicht alle Teammitglieder starteten mit der gleichen Codingstrategie, was zu einer gewissen Diskrepanz führte. Einige Teilnehmer waren bereits in der explorativen Datenanalyse aktiv, während andere Ideensammlungen betrieben. Dennoch begannen wir, erste Lösungsansätze zu besprechen und Daten herunterzuladen und zu formen.
 Da wir unterschiedliche Merkmale benötigten, mussten wir mehrere Download-Sequenzen durchführen und hatten erst spät einen kompletten Datensatz. 
-
-Am Ende des Tages gab es ein Check-in mit allen Teilnehmern und dazu ein Gruppenfoto. Es gab jedoch leider nur wenig Interaktion zwischen den verschiedenen Teams. Wir schlossen den Tag mit einem gemeinsamen Abendessen ab, blieben jedoch grösstenteils unter uns im Team. Danach wurde noch weiter gecodet und nach einer Weile hat es mich nach Hause ins Bett gezogen.
-
-### Tag 2
-
-Der zweite Tag begann mit einem individuellen Start. Ich genoss ein leckeres Kaffee und ein Gipfeli, um mich für den bevorstehenden Tag zu stärken. Die Koordination innerhalb unseres Teams war anfangs etwas mangelhaft, aber ich konnte eine gute Zusammenarbeit mit einigen Teammitgliedern, insbesondere Jan aus dem Studiengang sowie den zwei weiteren Teammitgliedern aufbauen. Und bald einmal hatten wir erste Cluster entdeckt für neue potentielle “District-Heatings”.
-Wir sammelten unsere Arbeitsergebnisse zusammen und hatten eine Mittagspause. Wie es oft in Hackathon’s ist hat man am Ende der Tage einen Pitch. Die Präsentation dazu musste man bereits um 14:00 Uhr nachmittags einreichen.
 <figure>
 <img src="/images/energyhackdays/2023/3.jpg" align="center" alt="Gemeinsames Arbeiten im Team">
 <figcaption style="text-align: center;">Gemeinsames Arbeiten im Team</figcaption>
 </figure>
+Am Ende des Tages gab es ein Check-in mit allen Teilnehmern und dazu ein Gruppenfoto. Es gab jedoch leider nur wenig Interaktion zwischen den verschiedenen Teams. Wir schlossen den Tag mit einem gemeinsamen Abendessen ab, blieben jedoch grösstenteils unter uns im Team. Danach wurde noch weiter gecodet und nach einer Weile hat es mich nach Hause ins Bett gezogen.
+
+### Tag 2
+
+Der zweite Tag begann mit einem individuellen Start. Ich genoss ein leckeres Kaffee und ein Gipfeli, um mich für den bevorstehenden Tag zu stärken. Die Koordination innerhalb unseres Teams war anfangs etwas mangelhaft, aber ich konnte eine gute Zusammenarbeit mit einigen Teammitgliedern, insbesondere Jan aus dem Studiengang sowie zwei weiteren Teammitgliedern aufbauen. Und bald einmal hatten wir erste Cluster entdeckt für neue potentielle “District-Heatings”.
+Wir sammelten unsere Arbeitsergebnisse zusammen und hatten eine Mittagspause. Wie es oft in Hackathon’s ist hat man am Ende der Tage einen Pitch. Die Präsentation dazu musste man bereits um 14:00 Uhr nachmittags einreichen.
+
 Somit reichte die Zeit nach der Mittagspause nur noch um Plots und Diagramme der bereits gefundenen Clusters zu machen und in präsentable Form zu bringen. 
 Wir arbeiteten daran, unsere Ergebnisse in eine Präsentation zu integrieren, die die Challenge Owner beim Pitch vorstellen würden.
 Diese wurden dann von den Challenge-Ownern in einem Abschlusspitch vorgestellt.
@@ -97,24 +100,25 @@ Diese wurden dann von den Challenge-Ownern in einem Abschlusspitch vorgestellt.
 </figure>
 Nach den Schluss-Pitches kam es zu einer Verabschiedung durch die Organisatoren und einem Apero, bei dem wir die Gelegenheit hatten, unsere Erfahrungen zu teilen und das Erreichte zu feiern.
 Auch war dort die Beste Zeit die Teilnehmer ausserhalb des Teams kennenzulernen.
-Ich konnte mit einigen Personen etwas networken und habe einige spannende Trainee-Programme kennengelernt. Nach etwa einer Stunde spürte ich die Arbeit und die beiden Tage und war allmählich etwas müde. Zufrieden machte ich mich auf den Weg nachhause und freue mich auf einen weiteren Hackathon.
+Ich konnte mit einigen Personen etwas networken und habe einige spannende Trainee-Programme kennengelernt. Nach etwa einer Stunde spürte ich die Arbeit der beiden Tage und war allmählich etwas müde. Zufrieden machte ich mich auf den Weg nachhause.
 
 ## Wie waren die Hackdays?
 
-Als Reminder die Kriterien einer partizipativen Veranstaltung nach Fremer & Naughton sind:
-• Klare und glaubwürdige Kommunikation
-• Integration der Ideen der Teilnehmer
-• Förderung von Kooperation und Vielfalt
-• Innovative Technologien
-• Flexibilität und Freiräume
-• Ergebnisoffenheit
-• Mut zu unkonventionellen Ansätzen
+Als Reminder die Kriterien einer partizipativen Veranstaltung nach Fremer & Naughton (Fremer & Naughton, 2017) sind:
+* Klare und glaubwürdige Kommunikation
+* Integration der Ideen der Teilnehmer
+* Förderung von Kooperation und Vielfalt
+* Innovative Technologien
+* Flexibilität und Freiräume
+* Ergebnisoffenheit
+* Mut zu unkonventionellen Ansätzen
+
 Ich möchte mit diesen Kriterien die Energy Data Hack Days 2023 bewerten und diskutieren.
 <figure>
 <img src="https://energydatahackdays.ch/typo3temp/assets/_processed_/8/1/csm_EDHD-Gruppenfoto-2023-Logos_9e5a592ea0.jpg" align="center" alt="Gruppenfoto Hackdays 2023">
 <figcaption style="text-align: center;">Gruppenfoto Hackdays 2023</figcaption>
 </figure>
-
+#TODO: Correct until here
 ### Kommunikation
 
 Die Kommunikation der Organisatoren war stets glaubwürdig und die Rahmenbedingungen der Hackdays wurden bereits anfangs abgesteckt. Ein Verbesserungspotential hat die Kommunikation zu den verschiedenen Programmpunkten. Es wurde ein Slack-Channel eingerichtet welcher dann aber kaum genutzt wurde um diese zu kommunizieren. Anpassungen zu den offerierten Essen wurden sehr zeitnah kommuniziert und da ich den FHNW Campus bereits kannte war es für mich kein grosses Problem diese Änderungen, vor allem örtlich, nachzuvollziehen. Andere Teilnehmer mussten zuerst den Campus verstehen um das Nachtesssen geniessen zu können. Diese Punkte sind sicher auch dem neuen Durchführungsort (Hackdays fanden das erste Mal am FHNW Campus statt) geschuldet. Auch war nicht ganz klar ob die Teilnehmenden oder die Challenge-Owner die Schlusspräsentation halten würden. Im Endeffekt wurde dies einfach im Team entschieden. Alles in allem fühlte ich mich jedoch gut informiert und motiviert.
@@ -151,10 +155,10 @@ Leider war beim Schlusspitch das Format (Powerpoint-Slides) etwas einengend. Vie
 
 Die Hackdays waren sehr konventionell. Ich habe bereits andere Hackathons besucht und dieser stach mit keinem Aspekt heraus. Das einzige Alleinstellungsmerkmal ist die Fokusierung auf Daten aus dem Energiebereich. Den Hackdays würde ich vorschlagen etwas mehr Kollaboration zwischen den Teams zu fördern. Zum Beispiel mit einem Check-In zwischen den Teams. Dabei könnte jedes Team ein aktuelles Problem schildern und vielleicht gleich Spontanantworten zu ihren Fragen erhalten. Auch kann ich mir vorstellen dass ein moderierter 'Methoden-Problem' Slack Channel spannend wäre um die Kollaboration zu fördern. In diesem könnte dann jedes Teams seine Probleme schildern und auch Antworten geben. Möglicherweise wäre auch eine Competition oder eine Kollaboration zwischen zwei Challenges ein inspirierender und motivierender Ansatz.
 
-TODO:
+
 ## Fazit
 
-Die Hackdays würde ich innerhalb meiner Challenge-Gruppe als sehr partizipativ einstufen.
+Die Hackdays würde ich innerhalb meiner Challenge-Gruppe als partizipativ einstufen.
 <figure>
 <img src="/images/energyhackdays/2023/2.jpg" align="center" alt="Mein Challenge-Team">
 <figcaption style="text-align: center;">Mein Challenge-Team</figcaption>
