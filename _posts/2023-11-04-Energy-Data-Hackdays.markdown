@@ -11,7 +11,7 @@ Das erste, was mir beim Stichwort "partizipativ" einfällt, ist die schweizerisc
 
 ## Was ist ein partizipatives Format?
 
-Nach Fremer & Naughton (Fremer & Naughton, 2017) zusammengefasst mit Chat-GPT (OpenAI., 2023) erweisen sich die nachstehenden Faktoren als Herausforderungen, die jedoch massgeblich darüber entscheiden, ob eine Veranstaltung mit partizipativem Charakter erfolgreich verläuft:
+Nach Fremer & Naughton (Fremer & Naughton, 2017) zusammengefasst mit ChatGPT erweisen sich die nachstehenden Faktoren als Herausforderungen, die jedoch massgeblich darüber entscheiden, ob eine Veranstaltung mit partizipativem Charakter erfolgreich verläuft:
 
 • **Klare und glaubwürdige Kommunikation**: Die Kommunikation seitens der Organisatoren muss klar und glaubwürdig sein. Versprechungen, wie die Umsetzung von Ideen, sollten eingehalten werden, um die Motivation der Teilnehmer aufrechtzuerhalten.
 
@@ -173,7 +173,7 @@ Eine gute Erfahrung war es für mich alle mal da ich neue Kontakte knüpfen, neu
 An den Hackdays teilzunehmen machte mir Spass und ich kann mir gut vorstellen diese wieder zu besuchen. Eine Möglichkeit für mich wäre auch einen anderen Hackathon desselben Organisators zu besuchen.
 
 <div style="margin-top: 100px;">
-  <h1>Quellen</h1>
+  <h3>Quellen</h3>
 
   <div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;">
     <div class="csl-entry">Bundesamt für Statistik. (2023, September 26). <i>Stimmbeteiligung</i>. Stimmbeteiligung | BFS. <a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/abstimmungen/stimmbeteiligung.html">https://www.bfs.admin.ch/bfs/de/home/statistiken/politik/abstimmungen/stimmbeteiligung.html</a></div>
@@ -182,5 +182,11 @@ An den Hackdays teilzunehmen machte mir Spass und ich kann mir gut vorstellen di
     <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A978-3-658-08309-0&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=MEINS%3A%20Partizipative%20Events&amp;rft.place=Wiesbaden&amp;rft.publisher=Springer%20Fachmedien&amp;rft.aufirst=Torsten&amp;rft.aulast=Fremer&amp;rft.au=Torsten%20Fremer&amp;rft.au=Carl%20Naughton&amp;rft.au=Claus%20B%C3%BChnert&amp;rft.au=Stefan%20Luppold&amp;rft.date=2017&amp;rft.pages=733-748&amp;rft.spage=733&amp;rft.epage=748&amp;rft.isbn=978-3-658-08309-0&amp;rft.language=de"></span>
     <div class="csl-entry">OpenAI. (2023, October 10). <i>ChatGPT</i>. (September 25 Version) [Large Language Model]. <a href="https://chat.openai.com">https://chat.openai.com</a></div>
     <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=webpage&amp;rft.title=ChatGPT&amp;rft.identifier=https%3A%2F%2Fchat.openai.com&amp;rft.au=undefined&amp;rft.date=2023-10-10&amp;rft.language=en-US"></span>
+  </div> 
+<br>
+  <h4>KI-Hilfsmittel</h4>
+
+  <div class="csl-bib-body" style="line-height: 2; margin-left: 2em;text-indent:-2em;">
+    <div class="csl-entry"><b>ChatGPT</b> von OpenAI wurde verwendet, um grosse Quellentexte zusammenzufassen und grammatische Fehler in manuell verfassten Texten zu korrigieren.</div>
   </div> 
 </div>
